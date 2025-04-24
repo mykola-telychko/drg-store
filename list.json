@@ -1,0 +1,5 @@
+{
+    "ua": ["ua_pl_allcomb.json", "ua_by_allcomb.json"],
+    "pl": ["pl_ua_allcomb.json"],
+    "sk": ["sk_ua_allcomb.json"]
+}
