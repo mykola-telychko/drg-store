@@ -1,4 +1,5 @@
 {
+    "mainProject": "https://data-rand-generator.vercel.app",
     "ua": ["ua_pl_allcomb.json", 
            "ua_by_allcomb.json", 
            "ua_cz_allcomb.json",
