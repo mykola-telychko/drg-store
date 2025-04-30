@@ -1,19 +1,23 @@
 {
     "mainProject": "https://data-rand-generator.vercel.app",
+    "total": "27 977 500",
+
     "ua": ["ua_pl_allcomb.json", 
            "ua_by_allcomb.json", 
            "ua_cz_allcomb.json",
-           "ua_sk_allcomb.json",
-                "by_ua_chunk_1.json", 
+           "ua_sk_allcomb.json"],
+
+        "by": [ "by_ua_chunk_1.json", 
                 "by_ua_chunk_2.json",
                 "by_ua_chunk_3.json", 
-                "by_ua_chunk_4.json",
-                    "cz_ua_chunk_1.json",
-                    "cz_ua_chunk_2.json",
-                    "cz_ua_chunk_3.json",
-                    "cz_ua_chunk_4.json"
-           ],
+                "by_ua_chunk_4.json"],
+
     "pl": ["pl_ua_allcomb.json"],
-    "cz": ["cz_??_allcomb.json"],
+
+        "cz": ["cz_ua_chunk_1.json",
+               "cz_ua_chunk_2.json",
+               "cz_ua_chunk_3.json",
+               "cz_ua_chunk_4.json"],
+               
     "sk": ["sk_ua_allcomb.json"]
 }
